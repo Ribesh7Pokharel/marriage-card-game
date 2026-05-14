@@ -1,0 +1,35 @@
+# Godot 4 - auto-generated and cache files
+.godot/
+*.uid
+
+# Imported assets (Godot regenerates these on each device)
+*.import
+
+# Export configs (device-specific)
+export_presets.cfg
+export_credentials.cfg
+
+# Mono/C# build files (not needed since we use GDScript)
+.mono/
+data_*/
+mono_crash.*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.bak
+*.swp

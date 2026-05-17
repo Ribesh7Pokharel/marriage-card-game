@@ -1,0 +1,6 @@
+res://scripts/core/CardData.gd
+res://scripts/core/CPUPlayer.gd
+res://scripts/ui/GameScene.gd
+res://scripts/core/GameState.gd
+res://scripts/core/PlayerData.gd
+res://scenes/screens/game_scene.tscn

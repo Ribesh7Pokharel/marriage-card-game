@@ -21,6 +21,7 @@ config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://assets/icon.svg"
 
 [autoload]
+
 DeckManager="*res://scripts/core/DeckManager.gd"
 MeldValidator="*res://scripts/core/MeldValidator.gd"
 GameState="*res://scripts/core/GameState.gd"

@@ -22,10 +22,6 @@ config/icon="res://assets/icon.svg"
 
 [autoload]
 
-GameState="*res://scripts/core/GameState.gd"
-CardManager="*res://scripts/core/CardManager.gd"
-NetworkManager="*res://scripts/network/NetworkManager.gd"
-AudioManager="*res://scripts/ui/AudioManager.gd"
 
 [display]
 
